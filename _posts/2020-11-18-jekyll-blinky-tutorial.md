@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to step by step blinky tutorial!"
+title:  "Welcome to blinky tutorial!"
 date:   2020-11-18 12:00:34 +0430
 categories: blinky tutorial
 ---
