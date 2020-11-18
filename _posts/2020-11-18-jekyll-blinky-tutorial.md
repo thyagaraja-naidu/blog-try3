@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll's step by step blinky tutorial!"
-date:   2019-01-22 03:56:34 +0100
+title:  "Welcome to step by step blinky tutorial!"
+date:   2020-11-18 12:00:34 +0430
 categories: blinky tutorial
 ---
 
